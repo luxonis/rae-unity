@@ -1,5 +1,5 @@
 # RAE For Unity
-RAE Unity plugin and Simulation
+RAE (Robotics Access for Everyone) Unity plugin and Simulation
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)&nbsp;
 <img src="https://img.shields.io/badge/unity-2020.3.20f1-green.svg?style=flat-square" alt="unity 2020.3.20f1">
