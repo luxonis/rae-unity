@@ -24,4 +24,17 @@ Main goals are:
 - Digital twin of RAE (virtual RAE simulation) enabling development in virtual environment.
 - Connect to real RAE using ROS integration (rae-ros and depthai-ros) with smooth transition from sim to real.
 - Develop native apps from basic control to augmented reality (AR) / mixed reality (MXR).
+- Unlock Unity power with third party assets
 - Publish topics from simulation and subscribe topics from real RAE for easy development.
+
+Examples coming (may use third party assets from Asset Store):
+- iOS / Android Native app to control RAE including: 
+  - use PS4 game controller to control RAE
+  - use voice control
+  - how to use all peripherals
+- Augmented Reality using native iOS/Android
+  - Touch and Go control
+- Mixed Reality using Meta Quest 3
+
+## Simulation
+
