@@ -28,7 +28,7 @@ Main goals are:
 - Publish topics from simulation and subscribe topics from real RAE for easy development.
 
 Examples coming (may use third party assets from Asset Store):
-- iOS / Android Native app to control RAE including: 
+- Mobile (iOS / Android) and Desktop native app to control RAE including: 
   - use PS4 game controller to control RAE
   - use voice control
   - how to use all peripherals
