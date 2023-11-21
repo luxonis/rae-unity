@@ -13,7 +13,7 @@ RAE (Robotics Access for Everyone) Unity plugin and Simulation
 <img src="https://img.shields.io/badge/unity-Builtin-green.svg?style=flat-square" alt="unity Builtin">
 &nbsp;
 
-> `RAE For Unity` is in active development. Its features and API are subject to significant change as development progresses.
+> `RAE For Unity` is in active development. Its features and API are subject to significant change as development progresses. Code coming soon !
 
 **What is RAE For Unity?**
 
@@ -67,7 +67,17 @@ https://github.com/luxonis/rae-unity/assets/5397648/d9859347-aa73-406a-8962-65b4
 
  
     
-- Mixed Reality using Meta Quest 3
+- Mixed Reality using Meta Quest 3   (Coming soon)
+
+  
+
+- Using GPT4V for obstacle avoidance and navigation
+
+
+
+https://github.com/luxonis/rae-unity/assets/5397648/9171a093-698c-42af-931f-b4deac0cda85
+
+
 
 ## Simulation
 
